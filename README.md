@@ -1,5 +1,5 @@
 # NBAology - https://ldowell2.web.illinois.edu/index.html 
-## By: Dilan Patel, Luc Dowell, Ahbi Kapoor, and Mukund Mudhusudan
+## By: Dilan Patel, Luc Dowell, Abhi Kapoor, and Mukund Mudhusudan
 Customized NBA Player Search Engine 
 
 UIUC CS 411 Final Project
